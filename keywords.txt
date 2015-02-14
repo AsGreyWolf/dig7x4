@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map for dig7x4
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+dig7x4	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup	KEYWORD2
+render	KEYWORD2
+push	KEYWORD2
+pushInt	KEYWORD2
+pushFloat	KEYWORD2
